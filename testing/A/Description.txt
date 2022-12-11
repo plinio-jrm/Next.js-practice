@@ -1,0 +1,1 @@
+Fro the tutorial in "next.js/learn/foundations", all of this i learned about how React works.
